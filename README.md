@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshavdwivedi
-- 👀 I’m interested in Java and Javascript frameworks
-- 🌱 I’m currently learning Serenity and Cypress
+- 👀 I’m interested in Java and JS/TS frameworks
+- 🌱 I’m currently learning Serenity and Cypress and Playwright
 - 💞️ I’m looking to collaborate on Java and Javascript
 - 📫 How to reach me keshudwivedi17@gmail.com
 
